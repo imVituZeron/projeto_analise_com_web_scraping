@@ -1,4 +1,4 @@
-# Web Scraping no site Programato thor
+# Web Scraping no site Programador thor
     trata-se de um scan da primeira pagina de vagas do programador thor com o pesquisa de python
 
 # Processo que foi construido o projeto
